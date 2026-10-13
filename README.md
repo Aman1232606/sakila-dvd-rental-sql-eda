@@ -30,12 +30,12 @@ The goal is to analyze customer behavior, film popularity, rental trends, and re
 - Approximately 45% of rentals are returned late, with an estimated late fee loss of $58,640
 
 ##  Files in this Repository
-- `sakila_eda.sql` – Contains all SQL queries with section-wise comments and insights
+- `01skila.sql` – Contains all SQL queries with section-wise comments and insights
 - `README.md` – Project description and summary
 
 ##  How to Run
 1. Load the Sakila schema and data into MySQL
-2. Open `sakila_eda.sql` in MySQL Workbench
+2. Open `01skila.sql` in MySQL Workbench
 3. Run queries section by section
 
 
